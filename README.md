@@ -1,7 +1,7 @@
 # effective-java-3e
 
 - [Effective Java 3/E 목차](https://github.com/Team-HST/wwl/tree/master/Effective%20Java%203E)
-- [Effective Java 3/E 소스코드](https://github.com/WegraLee/effective-java-3e-source-code)
+- [Effective Java 3/E 예제코드](https://github.com/WegraLee/effective-java-3e-source-code)
 
 ## 스터디
 
