@@ -7,8 +7,10 @@
 
 - [스터디 일정](https://github.com/Team-HST/wwl)
 - [스터디 진행 방법](https://github.com/Team-HST/wwl)
+- [스터디 이슈 정리](https://github.com/Team-HST/wwl/tree/master/Effective%20Java%203E/study-log)
 
 ## 개인
-
-- [스터디 이슈 정리](https://github.com/Team-HST/wwl/tree/master/Effective%20Java%203E/study-log)
-- [내용 정리 - 블로그 작성](https://hanul-dev.netlify.com/)
+- [아이템 1](https://hanul-dev.netlify.com/)
+- [아이템 2](https://hanul-dev.netlify.com/)
+- [아이템 3](https://hanul-dev.netlify.com/)
+- [아이템 4](https://hanul-dev.netlify.com/)
